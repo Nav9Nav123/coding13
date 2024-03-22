@@ -9,8 +9,8 @@ This document provides instructions to set up and run the React Component Librar
 First, clone the repository to your local machine:
 
 ```bash
-git clone 
-cd ac13
+git clone https://github.com/Nav9Nav123/coding13.git
+cd coding13
 ```
 
 ### Building the Docker Image
